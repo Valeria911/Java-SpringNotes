@@ -20,5 +20,3 @@ Los objetos son una construcción en la memoria RAM de las definiciones realizad
 - protected solamente es visible desde cualquier clase del mismo paquete
 - private solamente es visible desde las implementaciones de la misma clase
 - default es visible solamente dentro del mismo paquete
-
-### Método
